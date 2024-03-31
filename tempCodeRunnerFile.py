@@ -1,0 +1,2 @@
+# tampilkan pertanyaan pertama
+showQuestion()

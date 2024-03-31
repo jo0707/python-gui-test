@@ -8,7 +8,7 @@ these are just some of my little experiments trying out the Python GUI using Tki
 
 1. Download code as zip above and extract to your computer
 
-   Or, clone the repository
+   Or, open your code editor > terminal, and clone the repository
 
 ```bash
 git clone https://github.com/jo0707/python-gui-test.git

@@ -1,6 +1,8 @@
-# Simple Python Tkinter Programs
+<h1 align="center">Simple Python GUI (Tkinter) Programs</h1>
 
 these are just some of my little experiments trying out the Python GUI using Tkinter.
+
+<img src="screenshots/preview.png" alt="preview" width="80%">
 
 ## How to run the program
 
